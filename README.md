@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f8cdd7&height=150&section=header&text=🌸%20welcome%20🌸&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=f8cdd7&height=120&section=header&text=🌸%20welcome%20🌸&fontSize=30&fontColor=ffffff&fontAlign=50&borderRadius=10" />
 </p>
+
 
 ---
 
@@ -15,5 +16,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/rrD4XDMo2-sAAAAC/bunny-cute.gif" width="120" />
+  <img src="https://media.tenor.com/rrD4XDMo2-sAAAAC/bunny-cute.gif" width="150" style="border-radius: 15px; border: 3px solid #f8cdd7; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
 </p>
