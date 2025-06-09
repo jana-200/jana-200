@@ -1,10 +1,10 @@
 
-<!-- Banner  -->
+<!-- Banner 
 <div style="display: flex; justify-content: center;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY4ZmViZDZsbXp2MXlsMWRxN2Y1dmIxd3F3OHhtZG41Ym92dXl1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif" 
-       style="width: 95vw; max-width: 1000px; height: 130px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+       style="width: 95vw; max-width: 1400px; height: 130px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
-
+-->
 
 ---
 
