@@ -2,7 +2,7 @@
 <!-- Banner  -->
 <div style="display: flex; justify-content: center;">
   <img src="images/gif4.gif" 
-       style="width: 95vw; max-width: 1100px; height: 140px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+       style="width: 95vw; max-width: 1000px; height: 150px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 
