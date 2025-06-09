@@ -1,12 +1,8 @@
 
 <!-- Banner -->
 <div align="center">
-    <img align="center" style="display: block; margin: 0 auto; border-radius: 15px;" src="images/gif.gif" width="100%" />
+    <img align="center" style="display: block; margin: 0 auto; border-radius: 15px;" src="images/gif2.gif" width="100%" />
 </div>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=heyyy+🌸;" />
-</h3>
 
 ---
 
