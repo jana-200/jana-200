@@ -1,9 +1,10 @@
 
-<!-- Banner -->
+<!-- Banner 
 <div style="display: flex; justify-content: center;">
   <img src="images/gif3.gif" 
        style="width: 95vw; max-width: 1400px; height: 130px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
+-->
 
 ---
 
