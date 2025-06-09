@@ -1,10 +1,6 @@
-<!-- En-tête visuelle avec une ambiance douce -->
-<p align="center">
-  <img src="https://64.media.tumblr.com/87660279e5dc9e9e0b86118d0f27a76e/3453ad09370c1428-c1/s500x750/3b4cc51f6e86e22791f65ccfbacb6a83cbd4a1e0.gifv" width="250" alt="soft cherry blossom gif" />
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f8cdd7&height=150&section=header&text=🌸%20Jana%20on%20GitHub%20🌸&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=f8cdd7&height=150&section=header&text=🌸%20welcome%20🌸&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
