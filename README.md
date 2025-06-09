@@ -1,6 +1,6 @@
 
 <!-- Banner  -->
-<div salign="center">
+<div align="center">
   <img src="images/gif4.gif" 
        style="width: 100%; height: 100%; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
