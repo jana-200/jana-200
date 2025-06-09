@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <div align="center">
-    <img align="center" style="display: block; margin: 0 auto; border-radius: 15px;" src="images/gif2.gif" width="100%" />
+    <img src="images/gif3.gif" style="display: block; margin: 0 auto; border-radius: 12px; width: 100%; height: 120px; object-fit: cover;" />
 </div>
 
 ---
