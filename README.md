@@ -3,6 +3,6 @@
 </h3> 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-200&layout=compact&theme=tokyonight&bg_color=f8cdd7&text_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-200&layout=compact&theme=tokyonight&bg_color=f8cdd7&text_color=ffffff&hide_border=true&disable_cache=true" />
 </div>
 
